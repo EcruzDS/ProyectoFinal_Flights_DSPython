@@ -1,5 +1,6 @@
 # ProyectoFinal_Flights_DSPython
-Resultado de Proyecto Final para curso Data Science en Python usando el paquete nycflights13
+Para presentar los resultados del proyecto final del curso Data Science en Python con el paquete nycflights13, a continuación el video en la plataforma vimeo, hacer click en el thumbnail (miniatura) - enlace a video-
+
 
 [![Video Proyecto Final DataScience](https://vumbnail.com/933327331.jpg)](https://vimeo.com/933327331)
 
